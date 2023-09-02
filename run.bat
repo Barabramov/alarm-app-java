@@ -1,0 +1,2 @@
+java AlarmApp
+pause
