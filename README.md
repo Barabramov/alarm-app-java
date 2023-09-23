@@ -16,3 +16,10 @@ Upon launching the app, users can:
 - Save, retrieve, or modify the reminder as required.
 
 The simplicity of the application ensures that reminders are always at the user's fingertips, making it an essential tool for managing daily tasks and appointments.
+
+## Visual Example:
+Below are visual demonstration of the alarm-app:
+
+![1](https://github.com/Barabramov/alarm-app-java/assets/93996218/cf155d66-1caa-4150-96d6-fe0c85cad79e)
+
+
